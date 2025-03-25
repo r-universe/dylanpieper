@@ -8,6 +8,9 @@
 [submodule "hellmer"]
 	path = hellmer
 	url = https://github.com/dylanpieper/hellmer
+[submodule "redquack"]
+	path = redquack
+	url = https://github.com/dylanpieper/redquack
 [submodule "samesies"]
 	path = samesies
 	url = https://github.com/dylanpieper/samesies
