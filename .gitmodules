@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "batchLLM"]
 	path = batchLLM
-	url = https://github.com/dylanpieper/batchllm
+	url = https://github.com/cran/batchLLM
 [submodule "hellmer"]
 	path = hellmer
 	url = https://github.com/dylanpieper/hellmer
