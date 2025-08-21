@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "batchLLM"]
-	path = batchLLM
-	url = https://github.com/cran/batchLLM
-[submodule "hellmer"]
-	path = hellmer
-	url = https://github.com/dylanpieper/hellmer
 [submodule "redquack"]
 	path = redquack
 	url = https://github.com/dylanpieper/redquack
-[submodule "samesies"]
-	path = samesies
-	url = https://github.com/dylanpieper/samesies
